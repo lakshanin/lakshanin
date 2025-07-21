@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Lakshani Nissanka
-- 🌱 I’m currently reading BSc(Hons) Artificial Intelligence and Data Science.
 - 📫 How to reach me n.lakshanic@gmail.com
 
 <!---
